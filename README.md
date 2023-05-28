@@ -2,10 +2,6 @@
 
 <div align="center"> 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw0302&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/jw0402)
-[![JINWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0302&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jw0302/github-readme-stats)
-[![jw0302's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jw0302&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jw0302)
-
   <br/>
   <br/>
   
@@ -35,3 +31,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw0302&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/jw0302)
+[![JINWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0302&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jw0302/github-readme-stats)
+[![jw0302's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jw0302&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jw0302)
